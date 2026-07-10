@@ -1,0 +1,72 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Unity cache and crash reports
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Aa]sset[Ss]tore[Tt]ools*
+[Cc]rash[Rr]eports/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity auto-generated meta files for ignored folders
+sysinfo.txt
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Desktop.ini
+
+# Build artifacts and packages
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.x86
+*.x86_64
+*.appx
+*.msix
+
+# Logs
+*.log
+
+# Never ignore Unity asset metadata in tracked content.
+![Aa]ssets/**/*.meta
+![Pp]ackages/**/*.meta
+![Pp]roject[Ss]ettings/**/*.meta
+
+# Brayan
+lecciones
+AI_RULES.md
+DOCUMENTACION_PROYECTO.md
+parcial_practico.md
