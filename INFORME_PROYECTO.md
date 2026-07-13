@@ -1,3 +1,6 @@
+# ENLACE AL VIDEO: 
+https://drive.google.com/file/d/12KVJeaOZ6q4N9pD04-hA8udkggSxj0y_/view?usp=sharing
+
 # Informe del proyecto: Shooter 3D estilo Doom
 
 Se mantuvo la base original de movimiento, camara y disparo, y se agregaron los sistemas necesarios para cumplir el parcial: municion, recarga, enemigos con IA, contador de enemigos, condicion de victoria, Game Over y feedback visual de daño.
